@@ -8,4 +8,4 @@ Tooling that doesn't require an account - but where you can create documents tha
 
 * [socrates.io](http://socrates.io) : live markdown editing
 * [platon.io](http://platon.io) : quick slide decks from markdown
-* [https://ethercalc.net](https://ethercalc.net)  spreadsheet
+* [ethercalc.net](https://ethercalc.net)  spreadsheet
