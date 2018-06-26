@@ -6,6 +6,6 @@ curation of things I think are kinda handy or interesting
 
 Tooling that doesn't require an account - but where you can create documents that persist that you can link to. 
 
-1. [socrates.io](http://socrates.io) : live markdown editing
-2. [platon.io](http://platon.io) : quick slide decks from markdown
-
+* [socrates.io](http://socrates.io) : live markdown editing
+* [platon.io](http://platon.io) : quick slide decks from markdown
+* [https://ethercalc.net](https://ethercalc.net)  spreadsheet
