@@ -1,5 +1,5 @@
 # awesome-everything
-curation of things I think are kinda handy or interesting
+Curation of things I think are kinda handy or interesting
 
 
 ## Quick online tooling
